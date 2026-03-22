@@ -1,5 +1,5 @@
-# FTCLibraries
-A list of as many FTC libraries to help programmers
+# FTCLibrariesList
+A list of as many FTC libraries to help programmers and maintainers!
 
 ## Goals
 * A list of as many FTC libraries, with their name, description and link to installation in an organized manner
