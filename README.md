@@ -14,7 +14,7 @@
 
 ## About
 
-This repository serves as a place to discover new FTC rescources. Whether you're:
+This repository serves as a place to discover new FTC resources. Whether you're:
 -  A rookie team with no experience
 -  Looking to optimize your code
 -  Maintaining an FTC library
