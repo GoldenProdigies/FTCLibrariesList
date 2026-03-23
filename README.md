@@ -93,7 +93,7 @@ We would love your help! Here's how you can contribute:
 
 ## Get Help & Support
 
-- **Questions?** DM me on discord: dragonfire3658
+- **Questions?** Talk to us on our [Discord Server](https://discord.gg/UtCTTZFW7C)
 - **Found an issue?** [Report it here](https://github.com/GoldenProdigies/FTCLibrariesList/issues)
 
 
