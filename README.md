@@ -56,7 +56,6 @@ We would love your help! Here's how you can contribute:
   - [Extension - Pedro Pathing](https://nextftc.dev/extensions/pedro/) - Pedro Pathing integration
   - [Extension - Road Runner](https://nextftc.dev/extensions/roadrunner/) - Road Runner integration
   - [Extension - FateWeaver](https://nextftc.dev/extensions/fateweaver/) - FateWeaver integration
-- **[FTCLib](https://ftclib.org/)** - Comprehensive command-based structure and utilities
 - **[SolversLib](https://docs.seattlesolvers.com/)** - Enhanced FTCLib fork with focus on onboarding and performance
 - **[BunyipsLib](https://github.com/Murray-Bridge-Bunyips/BunyipsLib)** - General-purpose library with utilities and abstractions
 - **[FtcTemplate (TrcLib)](https://github.com/trc492/FtcTemplate)** - Template-based framework from Titan Robotics Club
